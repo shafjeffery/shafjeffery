@@ -38,8 +38,8 @@ I'm currently pursuing a degree in **Software Engineering** and exploring areas 
 
 ### 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shafjeffery&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafjeffery&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
