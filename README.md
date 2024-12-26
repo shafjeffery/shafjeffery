@@ -44,8 +44,5 @@ I'm currently pursuing a degree in **Software Engineering** and exploring areas 
 
 ---
 
-### 🌟 **Quote I Live By**  
-> "Code, Learn, Repeat. Every small step matters!"  
 
----
 
