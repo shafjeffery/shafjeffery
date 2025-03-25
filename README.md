@@ -7,7 +7,7 @@
 🔍 **About Me**:  
 I'm currently pursuing a degree in **Software Engineering** and exploring areas like **web development**, **mobile app development**, **cloud technologies** like **AWS**, and enhancing my knowledge of **UI/UX design**.  
 
-💬 **Languages**: English | Malay  
+💬 **Languages**: Malay | English  
 
 📬 **Contact Me**:  
 - 📧 Email: [nurulshaf61@gmail.com](mailto:[nurulshaf61@gmail.com)  
